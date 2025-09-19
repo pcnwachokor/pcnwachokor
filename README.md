@@ -1,4 +1,9 @@
-### Hi there 👋
+# Precious Nwachokor 
+### Compsci Student
+### www.linkedin.com/in/preciousnwachokor
+### Pcnwachokor@gmail.com
+
+
 
 <!--
 **pcnwachokor/pcnwachokor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
